@@ -13,4 +13,8 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Review {
     private ObjectId id; //which review
     private String body; //review message
+
+    public Review(String body) {
+        this.body = body;
+    }
 }
