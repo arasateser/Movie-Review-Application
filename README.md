@@ -1,2 +1,4 @@
 full stack movie review app using java as backend, react as frontend and mongodb
-images will be added after last frontent touches
+
+##Frontend side of the application using React##
+https://github.com/arasateser/Movie-Review-Application--Frontend/tree/master
